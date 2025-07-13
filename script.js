@@ -16,7 +16,7 @@ const materias = [
   { nombre: "Bromatología", anio: 2, cuatrimestre: 1, correlativas: ["Bioquímica de la Nutrición I"] },
   { nombre: "Microbiología de los Alimentos", anio: 2, cuatrimestre: 1, correlativas: ["Biología General"] },
   { nombre: "Bioquímica de la Nutrición II", anio: 2, cuatrimestre: 1, correlativas: ["Bioquímica de la Nutrición I"] },
-  { nombre: "Técnica Dietética y Culinaria I", anio: 2, cuatrimestre: 1, correlativas: ["Bioquímica de la Nutrición II"] },
+  { nombre: "Técnica Dietética y Culinaria I", anio: 2, cuatrimestre: 1, correlativas: ["Bioquímica de la Nutrición I"] },
   { nombre: "Nutrición II", anio: 2, cuatrimestre: 2, correlativas: ["Nutrición I"] },
   { nombre: "Fisiología Digestiva y Neuroendócrina", anio: 2, cuatrimestre: 2, correlativas: ["Biología General", "Anatomía e Histología"] },
   { nombre: "Nutrición Infantil", anio: 2, cuatrimestre: 2, correlativas: ["Nutrición I"] },
